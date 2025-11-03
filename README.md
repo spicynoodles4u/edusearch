@@ -1,7 +1,7 @@
 # EduSearch
 
 A browser for education sites built by... students with ♥.
-This is project created by a group of three students. See original here: https://github.com/RafaelPiloto10/edusearch
+This is project created by a group of three students. See the original here: https://github.com/RafaelPiloto10/edusearch
 
 ## Inspiration
 
