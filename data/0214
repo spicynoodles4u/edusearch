@@ -1,0 +1,267 @@
+https://med.stanford.edu/news/all-news/2023/03/heart-shape-predict-disease.html
+Stanford Medicine-led study finds heart shape can predict cardiac disease | News Center | Stanford Medicine
+Skip to Content
+Skip to Local Navigation
+Skip to Global Navigation
+Stanford Medicine
+News Center
+Site Nav
+Menu
+See us on facebook
+See us on twitter
+See us on youtube
+See us on linkedin
+See us on instagram
+Stanford Medicine
+Explore Stanford Medicine
+Health Care
+Find a doctor
+Adult-care doctor
+Pediatrician or pediatric specialist
+Obstetrician
+Clinics & Services
+Adult care
+Pediatric care
+Obstetrics
+Clinical trials
+Locations
+Stanford Health Care
+Stanford Children's Health
+Emergency Department
+Dial 911 in the event of a medical emergency
+Explore Health Care
+Learn how we are healing patients through science & compassion
+Back
+Research
+Basic science departments
+Clinical science departments
+Institutes
+Research centers
+See full directory
+Research Resources
+Research administration
+Academic profiles
+Clinical trials
+Funding opportunities
+See all
+Professional Training
+Postdoctoral scholars
+Clinical research fellows
+Research News
+Stanford team stimulates neurons to induce particular perceptions in mice's minds
+Explore Research
+Learn how we are fueling innovation
+Back
+Education
+MD program
+PA Programs
+PhD programs
+Masters programs
+Continuing Medical Education
+Postdoctoral scholars
+Residencies & fellowships
+High School & Undergraduate Programs
+See all
+Education Resources
+Academic profiles
+School Administration
+Basic science departments
+Clinical science departments
+Alumni services
+Faculty resources
+Diversity programs
+Lane Library
+Student resources
+Education News
+Students from far and near begin medical studies at Stanford
+Explore Education
+Learn how we empower tomorrow's leaders
+Back
+Give
+Support Stanford Medicine
+Support teaching, research, and patient care.
+Ways to give
+Why giving matters
+Make a gift online
+Support Children's Health
+Support Lucile Packard Children's Hospital Stanford and child and maternal health
+Ways to give
+How your gift helps
+Make an online gift
+Back
+About
+About us
+News
+Contacts
+Maps & directions
+Leadership
+Vision
+Diversity
+Global health
+Community engagement
+Events
+How you can help
+Stanford School of Medicine
+Stanford Health Care
+Stanford Children's Health
+Back
+Site Search
+Submit Search Query
+Toggle Dropdown Menu
+Menu
+Scope Blog
+Stanford Medicine Magazine
+Of Note
+COVID-19 Updates
+Topics
+Topics
+Administration
+Aging
+Big Data
+Biochemistry
+Bioengineering
+Cancer
+Cardiovascular Health
+Chemical Biology
+Chronic Disease
+COVID-19
+Developmental Biology
+Education
+Genetics
+Global Health
+Health Policy
+Hearing
+Imaging
+Immunology
+Infectious Disease
+Mental Health
+Neuroscience
+Nutrition
+Obituaries
+Pain
+Patient Care
+Pediatrics
+Precision Health
+Preventive Medicine
+Sleep
+Stem Cells
+Surgery
+Technology
+Transplantation
+Urology
+Women's Health
+Search
+Stanford Medicine
+News
+2023
+Data science meets cardiac science
+Story
+Stanford Medicine-led study finds heart shape can predict cardiac disease
+share
+While cardiac sphericity was the focus of Stanford Medicine-led research, the possibility of data science expanding the reach of biomedical science was its true core, researchers say.
+March 29, 2023
+- By Mark Conley
+Heart shapes range from elongated to normal to spherical.
+Med
+A machine learning-aided study on heart shape, led by a researcher at Stanford Medicine, found that sphericity — or roundness — seems to occur more commonly in healthy hearts than previously believed but can also act as a genetic indicator of cardiac problems that lie ahead.
+Doctors have long known that a rounder heart, like the one made symbolically popular throughout modern civilization and celebrated with the ubiquitous Valentine’s Day heart shape, actually depicts an organ under duress. But that detail has typically been studied only after the onset of a cardiac condition.
+“Most people who practice cardiology are well aware that after someone develops heart disease, the heart will look more spherical,” said
+Shoa Clarke,
+MD, PhD, preventive cardiologist and an instructor in the
+Stanford School of Medicine
+’s departments of medicine and pediatrics.
+Artificial intelligence allowed the researchers to demonstrate at scale that hearts come in all shapes, including more full and round, even before a troubling clinical diagnosis — and those details can offer important health clues, they maintain.
+The
+study
+, which was published March 29 in Med, revealed new details about the genetic underpinnings of cardiomyopathy, which includes conditions such as heart arrhythmia, known as atrial fibrillation, and congestive heart failure. In atrial fibrillation, the heart beats too quickly, too slowly or in an irregular way; in congestive heart failure, the heart can’t pump enough blood.
+Clarke and David Ouyang, MD, of the Smidt Heart Institute of Cedars-Sinai, were senior authors on the study; Milos Vukadinovic, a bioengineering student at UCLA, was the lead author.
+Clarke and Ouyang landed upon heart shape after clinical experience showed “variability in the shape and morphology, even when all the standard metrics seem normal,” Clarke said.
+They wondered if shape is an important predictive variable of heart health well before a clinical diagnosis. Using images from the UK Biobank, the researchers measured the left-ventricle sphericity of 38,897 otherwise healthy hearts.
+They focused on the left ventricle, which is normally cone-shaped, because it is the core part of the muscle, doing the heart’s mechanical heavy lifting, and is especially susceptible to damage. As the pumper of blood throughout the body, it can dilate and become wider or more round over time.
+First the researchers used biobank data to show that increased sphericity is a risk factor for developing cardiomyopathy, atrial fibrillation or heart failure, finding that a small increase in roundness was associated with a 47% increase in developing those conditions up to 10 years later.
+Then they looked at biobank participants’ health records, studying the genetic markers of both sphericity and those cardiac conditions, and discovered an overlap.
+They concluded that intrinsic disease of the heart muscle — meaning damage not suffered during a heart attack — triggered sphericity in the left ventricle, even before heart disease has made itself known.
+Shoa Clarke
+The presence of increased sphericity, the researchers concluded, may “identify individuals with underlying molecular/cellular abnormalities that place them at heightened risk for developing overt cardiomyopathy or related diseases such as atrial fibrillation.”
+If shape were to become more of a baseline detail collected in clinical settings, Clarke explained, “We may start to see changes in the sphericity that are indicative of someone already going down that path of developing a heart problem.”
+Medical imaging a rich source of info
+The proof-of-concept learnings on cardiac sphericity was only one take-away for Clarke, who said the existing MRI imagery of the cardiovascular system, such as the samples they used, could provide a deep reservoir of previously unexplored scientific clues for all kinds of new studies.
+“The main point I’m trying to make with this study is that there is information in current medical imaging that’s not being used,” Clarke said.
+Clarke and Ouyang — who met and became friends as Stanford Medicine cardiology fellows — are as pointedly focused on data science as they are on biomedical science. They said artificial intelligence, while a much-talked-about, tech-spawned advancement, has yet to bear firm results in the field.
+“There is broad enthusiasm for using artificial intelligence, biobanks and genomics to accelerate biomedical research,” Clarke said. “Yet, the number of practicing clinicians who have the technical skills to lead such research is still relatively small.”
+Their report noted a lack of racial diversity within the UK Biobank as one of the study’s limitations. Clarke said diversity will remain an issue, especially in large biobanks, until the systems in place target improvement. “For imaging studies, this was a very large number,” Clarke said. “But one problem with it being the only source of such large-scale data is that it lacks diversity.”
+The data was also collected as part of a study, not from a clinic, which avoids a bias toward those who are seeing a physician because of a problem.
+It should be noted, Clarke said, that an increase in sphericity doesn’t necessarily portend a serious condition down the line. The majority of people in their study cohort who had a degree of sphericity did not go on to develop any clinical disease, at least in the follow-up period, which in some cases extended up to a decade.
+“It’s not a guarantee that having high sphericity means you will have some clinical manifestation,” he said. “It’s just a marker for people who are at higher risk. Other factors could be at play.”
+The next frontier could be heart conditions beyond cardiomyopathy, Clarke said, anything “relevant to any of the main categories of heart disease, which include things like rhythm disturbances, valve diseases and vascular diseases like coronary artery disease.”
+“I think all of those categories could benefit from learning new ways of looking at images and trying to pull more information out of those images than we currently do,” he said.
+“There’s a lot more information available than what physicians are currently using,” Ouyang told
+Med
+. “And just as we’ve previously known that a bigger heart isn’t always better, we’re learning that a more-round heart is also not better.”
+This study was funded by the National Institutes of Health (grants K99-HL157421 and KL2TR003143).
+Mark Conley
+Mark Conley is an associate editor in the Office of Communications. Email him at
+mjconley@stanford.edu
+.
+Media Contacts
+Mark Conley
+mjconley@stanford.edu
+About Stanford Medicine
+Stanford Medicine
+is an integrated academic health system comprising the
+Stanford School of Medicine
+and adult and pediatric health care delivery systems. Together, they harness the full potential of biomedicine through collaborative research, education and clinical care for patients. For more information, please visit
+med.stanford.edu
+.
+Related News
+January 5, 2022
+Stanford surgeon saves guardsman’s life with complex heart procedure
+For patients like Nathan Foss, Stanford’s expertise in rare and complicated heart surgeries provides better options.
+November 4, 2021
+For severe heart disease, bypass surgery slightly better than stenting — with caveats, study finds
+Topics
+Big Data
+Cardiovascular Health
+All Topics
+Stanford Medicine Magazine
+2023 ISSUE 1
+Real-world health
+How social factors make or break us
+News Center
+News Center
+Office of Communications
+For Journalists
+For Faculty & Staff
+School Policies
+Contacts
+News Sources
+Scope Blog
+Stanford Medicine Magazine
+Stanford Health Care Newsroom
+Stanford Children's Health Newsroom
+Stanford School of Medicine
+About
+Contact
+Maps & Directions
+Careers
+Basic Science Departments
+Clinical Science Departments
+Academic Programs
+Vision
+Find People
+Visit Stanford
+Search Clinical Trials
+Give a Gift
+©
+2023
+Stanford Medicine
+Privacy Policy
+Terms of Use
+See us on Facebook
+See us on Twitter
+Stanford University
+Stanford School of Medicine
+Stanford Health Care
+Stanford Children's Health
+Stanford Health Care Tri-Valley
+Stanford Medicine Partners
